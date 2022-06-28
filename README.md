@@ -1,10 +1,4 @@
 - 👋 Ola, meu nome é Ana Luíza Mendes 
-- Gosto muito de andar a cavalo,ler,escrever,fazer grafite,assistir netflix,bricar com minhas cadelas, escutar musica, jogar handebol 
 - 🌱No entanto pretendo cursar medicina 
-- 💞️Moro em Ivaí-Pr,Brasil
-- 📫 Nasci no dia 28 de agosto de 2007
-- Na atualidade tenho 14 anos, com carinha de 10 haha
-- Estudo na escola estadual Arthur da Costa e Silva 
-- Meu esporte favorito é o Handebol 
-- Gosto muitooo de chocolate 
-- Minhas materias favoritras são historia e filosofia 
+- 💞️Moro em Ivaí-Pr,Br
+- Estudo na escola estadual Arthur da Costa e Silva
